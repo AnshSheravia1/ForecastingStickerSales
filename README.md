@@ -1,0 +1,2 @@
+# ForecastingStickerSales
+Kaggle Competition
